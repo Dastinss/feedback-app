@@ -14,7 +14,6 @@ function App() {
       <Header />
       <div className='container'>
         <FeedbackList feedback = {feedback}/>
-        <Card> Hello World </Card>
       </div>
     </>
   );
